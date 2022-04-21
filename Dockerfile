@@ -1,6 +1,6 @@
 FROM devopsedu/webapp
 
-MAINTAINER sneha<sneha.or.mathew@gmail.com>
+MAINTAINER Sneha<sneha.or.mathew@gmail.com>
 
 #Update Repository
 RUN apt-get update -y
